@@ -1,0 +1,7 @@
+export OS_AUTH_URL=www.myauth.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=Windamier
+export OS_PROJECT_DOMAIN_NAME=na.pac.com
+export OS_USERNAME=jsmith10
+export OS_USER_DOMAIN_NAME=dogstar1
+export OS_PASSWORD=dogstart2
